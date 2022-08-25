@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "katdetectr"]
+	path = katdetectr
+	url = https://github.com/erasmusmc-ccbc/katdetectr
+	shallow = true
+	registered = true
 [submodule "ProteoDisco"]
 	path = ProteoDisco
 	url = https://github.com/erasmusmc-ccbc/proteodisco
