@@ -8,8 +8,3 @@
 	url = https://github.com/erasmusmc-ccbc/katdetectr
 	shallow = true
 	registered = true
-[submodule "ProteoDisco"]
-	path = ProteoDisco
-	url = https://github.com/erasmusmc-ccbc/proteodisco
-	shallow = true
-	registered = true
